@@ -1,6 +1,5 @@
 # Python pth $\rightarrow$ C++ ONNX demo
 
-> Python pth模型训练生成->转化C++ ONNX模型文件->C++ ONNX模型文件加载->C++ ONNX模型推理
 以加法器为例，本项目展示了一个从Python pth模型训练生成到C++ ONNX模型文件加载和推理的完整流程。
 
 ## 1. Python pth模型训练生成
